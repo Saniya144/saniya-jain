@@ -133,10 +133,6 @@ enableEmoji = true
   [privacy.instagram]
     disable = false
     simple = true
-  [privacy.twitter]
-    disable = false
-    x.enableDNT = true
-    simple = false
   [privacy.vimeo]
     disable = false
     enableDNT = true
