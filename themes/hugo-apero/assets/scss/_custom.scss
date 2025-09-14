@@ -1,0 +1,10 @@
+/* Force full-width layout */
+.page-container,
+.main-container,
+.content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto;
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
