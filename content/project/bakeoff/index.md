@@ -4,7 +4,7 @@ subtitle: "An R Package"
 excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
 date: 2019-07-01
 author: "Eric Anderson"
-draft: false
+draft: true
 tags:
   - hugo-site
 categories:
@@ -20,7 +20,7 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://g/Users/saniyajain/Downloads/Archives/Past Classes/ECON 452/Final Project/ECON_Project_Final.pdfithub.com/apreshill/bakeoff
 ---
 
 {{< here >}}

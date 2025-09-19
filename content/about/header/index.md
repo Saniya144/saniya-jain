@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+Thank you for stopping by to see my work! I'm a 21 year old aspiring Data Scientist, Data Engineer and Public Interest Technologist. 

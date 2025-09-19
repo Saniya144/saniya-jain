@@ -45,6 +45,7 @@ enableEmoji = true
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "apreshill"
+  math = true
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -105,11 +106,23 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "CV"
+    title = "View CV"
+    url = "https://drive.google.com/file/d/1VE1TjqM3lE8qFie6YzqHQDaCPNoDfMNg/view?usp=drive_link"
     weight = 4
-    
+  
+  [[menu.header]]
+    name = "Learning"
+    title = "Courses and Certificates"
+    url = "/Learning/"
+    weight = 5
+
+  [[menu.header]]
+    name = "Blog"
+    title = "Courses and Certificates"
+    url = "/blog/"
+    weight = 5
+
   # Configure footer  
   [[menu.footer]]
     name = "License"

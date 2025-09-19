@@ -2,7 +2,7 @@
 ## Configure sidebar content in narrow column
 author: "Saniya Jain"
 role: "Social Impact Data Scientist"
-avatar_shape: rounded # circle, square, rounded
+avatar_shape: square # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
 audio_link_label: "How to say my name"
